@@ -30,7 +30,7 @@
 
         <p>At Conceptix Inc., we specialize in crafting enterprise-grade iOS and Android apps. We partner with non-profits and mission-driven organizations, turning their visions into digital realities.</p>
 
-        <h3 class="h3">Driven by Purpose: Your Mission, Our Passion.</h3>
+        <h3 class="h3">Driven by Purpose: Your Mission, Our Passion</h3>
         
         <p>We believe in the power of technology to make a meaningful difference. We’re more than developers; we’re your strategic partners in creating software that matters.</p>
 
