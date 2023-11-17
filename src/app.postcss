@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+.h1,
+.h3 {
+	font-family: 'Share Tech', sans-serif;
+}
+
+.gradient-heading {
+	@apply bg-clip-text text-transparent box-decoration-clone;
+	/* Direction */
+	@apply bg-gradient-to-br;
+	/* Color Stops */
+	@apply from-primary-400 via-primary-500 to-secondary-900;
+}
+
+h3 {
+	@apply text-primary-500;
+}
+
+p {
+	@apply text-secondary-400;
+}
