@@ -17,7 +17,7 @@
   <Dots />
 
 
-  <div in:fly={{delay: 400, duration: 1200, y: 100, easing: expoOut}} class="container p-12 h-screen flex flex-col justify-center items-center">
+  <div in:fly={{delay: 400, duration: 1200, y: 100, easing: expoOut}} class="container p-8 h-screen flex flex-col justify-center items-center">
     
       <div class="flex gap-x-3 max-w-2xl w-full items-center">
         <img class="w-16" src="/brand.svg" alt="Conceptix Inc.">
@@ -32,7 +32,7 @@
 
         <h3 class="h3">Driven by Purpose: Your Mission, Our Passion</h3>
         
-        <p>We believe in the power of technology to make a meaningful difference. We’re more than developers; we’re your strategic partners in creating software that matters.</p>
+        <p>We believe in the power of technology to make a meaningful difference. We're more than developers; we're your strategic partners in creating software that matters.</p>
 
         <!-- <h1 class="h1">Clients</h1>
 
@@ -45,7 +45,6 @@
         <p class="pt-8">Let's Innovate Together,</p>
 
         <p>
-          Conceptix Inc.<br />
           <span class="text-secondary-300">(705) 622-3107</span>
         </p>
     </div>
