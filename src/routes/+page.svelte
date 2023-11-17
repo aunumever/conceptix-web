@@ -17,7 +17,7 @@
   <Dots />
 
 
-  <div in:fly={{delay: 400, duration: 1200, y: 100, easing: expoOut}} class="container pt-24 sm:pt-0 px-8 h-screen sm:flex flex-col justify-center items-center">
+  <div in:fly={{delay: 400, duration: 1200, y: 100, easing: expoOut}} class="relative z-20 container pt-24 sm:pt-0 px-8 h-screen sm:flex flex-col justify-center items-center">
     
       <div class="flex gap-x-3 max-w-2xl w-full items-center">
         <img class="w-16" src="/brand.svg" alt="Conceptix Inc.">
@@ -45,7 +45,7 @@
         <p class="pt-8">Let's Innovate Together,</p>
 
         <p>
-          <span class="text-secondary-300"> <a href=“tel:+17056223107”>(705) 622-3107</a></span>
+          <span class="text-secondary-300 text-lg share-tech"> <a href=“tel:+17056223107”>(705) 622-3107</a></span>
         </p>
     </div>
   </div>
