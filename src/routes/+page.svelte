@@ -26,7 +26,7 @@
 
       <div class="space-y-5 pt-12 max-w-2xl">
 
-        <h3 class="h3">Empowering Change Through Innovative Tech</h3>
+        <h3 class="h3">Empowering Change Through Innovative Software</h3>
 
         <p>At Conceptix Inc., we specialize in crafting enterprise-grade iOS and Android apps. We partner with non-profits and mission-driven organizations, turning their visions into digital realities.</p>
 
@@ -45,7 +45,9 @@
         <p class="pt-8">Let's Innovate Together,</p>
 
         <p>
-          <span class="text-secondary-300 text-lg share-tech"> <a href=“tel:+17056223107”>(705) 622-3107</a></span>
+          <span class="text-secondary-300 text-lg share-tech"> 
+            <a href=“tel:+17056223107”>(705) 622-3107</a>
+          </span>
         </p>
     </div>
   </div>
